@@ -1753,6 +1753,8 @@ A listing isn't permanent either: entries whose repos go away, stop being mainta
 - [yyyyukari/dsh-plugin-workshop](https://github.com/yyyyukari/dsh-plugin-workshop) - Steam Workshop-style in-app plugin browser: search, hot/newest/trending (7/30/90-day) sorting, Chinese keyword mapping, bilingual descriptions and README translation, plugin-signature filtering, and one-click install/update.
 - [zoahdev/dsh-subscribe#plugin](https://github.com/zoahdev/dsh-subscribe/tree/main/plugin) - Steam-style plugin storefront: a plugin registry browsable inside DSH with one-click install, uninstall and update, plus a zero-dependency CLI and agent-callable market tools.
 
+- [zoahdev/dsh-unplug](https://github.com/zoahdev/dsh-unplug) - Plug/unplug any DeepSeek Harness plugin cleanly: list every mounted layer, remove with full cleanup (bundles + patch rows + dependencies), disable/enable without deleting, and audit for orphaned/dangling plugin state. CLI + agent-callable unplug tool.
+
 ### Just for Fun
 
 - [609476965/dsh-LorebookMD](https://github.com/609476965/dsh-LorebookMD) - Import SillyTavern/TavernAI character cards and world books, save them as local Markdown lore documents, and generate novel prose from your prompts with the world settings as reference.
