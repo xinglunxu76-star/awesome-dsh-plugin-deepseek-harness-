@@ -1,4 +1,11 @@
 {
+ "https://github.com/wqy8593521/dsh-model-pro": [
+  "https://raw.githubusercontent.com/wqy8593521/dsh-model-pro/main/docs/screenshots/dashboard.png",
+  "https://raw.githubusercontent.com/wqy8593521/dsh-model-pro/main/docs/screenshots/editor.png",
+  "https://raw.githubusercontent.com/wqy8593521/dsh-model-pro/main/docs/screenshots/models.png",
+  "https://raw.githubusercontent.com/wqy8593521/dsh-model-pro/main/docs/screenshots/test.png",
+  "https://raw.githubusercontent.com/wqy8593521/dsh-model-pro/main/docs/screenshots/routes.png"
+ ],
  "https://github.com/hunter118/dsh-s7r": [
   "https://raw.githubusercontent.com/hunter118/dsh-s7r/main/docs/screenshots/s7r-desktop.png",
   "https://raw.githubusercontent.com/hunter118/dsh-s7r/main/docs/screenshots/s7r-agent.png",
