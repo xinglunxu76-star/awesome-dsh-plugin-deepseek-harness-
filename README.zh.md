@@ -1723,6 +1723,7 @@ dsh plugin --profile web add dshmarket
 - [zoahdev/dsh-readme-forge](https://github.com/zoahdev/dsh-readme-forge) — 为 dsh 插件仓库从 package.json + cordis.patch.yml + 源码布局生成 README.md——安装/CLI/工具/开发/许可证章节，确定性输出、零运行时依赖、默认只读。CLI + agent 可调用 readme_forge 工具。
 - [zoahdev/dsh-rule-evolve](https://github.com/zoahdev/dsh-rule-evolve/tree/main/plugin) — 验证驱动的自我进化循环：失败日志自动变成经过验证的 AGENTS.md 规则；会话内插件（evolve_learn/evolve_apply/evolve_touch/evolve_recall）、工具体检、规则生命周期、本地召回。
 - [zoahdev/dsh-timesheet](https://github.com/zoahdev/dsh-timesheet) — 从 dsh 会话日志做基于 turn 的时间跟踪：总计、按天/项目/供应商/来源汇总、工具调用数、失败率与首 token 延迟——CLI + agent 可调用 timesheet 工具，dsh-timesheet/v1 报告，零运行时依赖。
+- [ZSeven-W/dsh-ios](https://github.com/ZSeven-W/dsh-ios) — 在 DSH 对话中运行 iOS 模拟器与 USB 连接的真机：21 个 agent 工具，可启动设备、构建运行 Xcode 工程、按无障碍标识 / OCR 文本 / 列表行驱动 UI、读取统一日志并查看进程、backtrace 与内存泄漏，并附带可点按、拖拽、旋转的实时侧边栏画面。
 
 ### 🔒 安全与权限
 
