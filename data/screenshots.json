@@ -1162,5 +1162,10 @@
   "https://raw.githubusercontent.com/wangzhishou/onebox-dsh-bridge/main/docs/images/app-connect.png",
   "https://raw.githubusercontent.com/wangzhishou/onebox-dsh-bridge/main/docs/images/app-chat.png",
   "https://raw.githubusercontent.com/wangzhishou/onebox-dsh-bridge/main/docs/images/app-feedback.png"
+ ],
+ "https://github.com/AKS1st/dock-files": [
+  "https://raw.githubusercontent.com/AKS1st/dock-files/main/assets/main-gui.png",
+  "https://raw.githubusercontent.com/AKS1st/dock-files/main/assets/menu-en.png",
+  "https://raw.githubusercontent.com/AKS1st/dock-files/main/assets/menu-zh.png"
  ]
 }
