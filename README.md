@@ -1723,6 +1723,7 @@ A listing isn't permanent either: entries whose repos go away, stop being mainta
 - [zoahdev/dsh-readme-forge](https://github.com/zoahdev/dsh-readme-forge) - Generate README.md for dsh plugin repositories from package.json + cordis.patch.yml + source layout — install/CLI/tools/dev/license sections, deterministic, zero runtime deps, read-only by default. CLI plus an agent-callable readme_forge tool.
 - [zoahdev/dsh-rule-evolve](https://github.com/zoahdev/dsh-rule-evolve/tree/main/plugin) - Verification-driven self-evolution loop: failure logs become verified AGENTS.md rules; in-session plugin (evolve_learn / evolve_apply / evolve_touch / evolve_recall), tool-verify gate, rule lifecycle, local recall.
 - [zoahdev/dsh-timesheet](https://github.com/zoahdev/dsh-timesheet) - Turn-based time tracking from dsh session logs: totals, per-day/project/provider/source rollups, tool-call counts, failure rates, and time-to-first-token — CLI plus an agent-callable timesheet tool, dsh-timesheet/v1 reports, zero runtime deps.
+- [ZSeven-W/dsh-ios](https://github.com/ZSeven-W/dsh-ios) - A live iOS Simulator — and a USB-connected iPhone — inside a DSH conversation: 21 agent tools to boot devices, build and run Xcode projects, drive the UI by accessibility identity, OCR text or list rows, read unified logs and inspect processes, backtraces and leaks, with a streaming sidebar panel you can tap, drag and rotate on.
 
 ### Security & Permissions
 
