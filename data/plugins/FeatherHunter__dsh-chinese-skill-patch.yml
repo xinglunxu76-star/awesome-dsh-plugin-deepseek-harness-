@@ -1,0 +1,6 @@
+url: https://github.com/FeatherHunter/dsh-chinese-skill-patch
+name: FeatherHunter/dsh-chinese-skill-patch
+category: skill
+description:
+  en: 'Allow /中文 skill names in DSH — discover Chinese SKILL.md without renaming to kebab-case (e.g. /私家大厨, /备忘录, /卡路里). Slash complete, slash jump and skill({name:"私家大厨"}) all work.'
+  zh: '允许 /中文技能名 在 DSH 中直达 — 无需改英文即可发现中文 SKILL.md（如 /私家大厨、/备忘录、/卡路里），斜杠补全、斜杠直达与 skill 工具均可用。'
