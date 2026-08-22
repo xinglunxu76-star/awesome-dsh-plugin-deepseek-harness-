@@ -1162,5 +1162,10 @@
   "https://raw.githubusercontent.com/wangzhishou/onebox-dsh-bridge/main/docs/images/app-connect.png",
   "https://raw.githubusercontent.com/wangzhishou/onebox-dsh-bridge/main/docs/images/app-chat.png",
   "https://raw.githubusercontent.com/wangzhishou/onebox-dsh-bridge/main/docs/images/app-feedback.png"
+ ],
+ "https://github.com/Kenerlee/dsh-moments-aieo": [
+  "https://raw.githubusercontent.com/Kenerlee/dsh-moments-aieo/master/assets/screenshot-dashboard.png",
+  "https://raw.githubusercontent.com/Kenerlee/dsh-moments-aieo/master/assets/screenshot-diagnosis-report.png",
+  "https://raw.githubusercontent.com/Kenerlee/dsh-moments-aieo/master/assets/screenshot-dashboard-mobile.png"
  ]
 }
